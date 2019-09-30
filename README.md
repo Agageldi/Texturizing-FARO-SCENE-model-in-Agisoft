@@ -1,7 +1,7 @@
 # Texturizing-FARO-SCENE-model-in-Agisoft-Metashape
 
 # Description
-When FARO SCENE is creating a 3D model first it generalizes point cloud to reduce the number of the triangles of the model. This has a significant effect on the texture of the 3D model. In the big projects, this issue is more pronounced. This repository is for showing the method to bypass the texturing defect of the FARO SCENE. 3D model exported from FARO SCENE can be texturized afterward in Agisoft Metashape, by using the panoramic images and locations of the scanner, which are also exported from FARO SCENE.
+When FARO SCENE is creating a 3D model, first it generalizes point cloud to reduce the number of the triangles of the model. This has a significant effect on the texture of the 3D model. In the big projects, this issue is more pronounced. This repository is for showing the method to bypass the texturing defect of the FARO SCENE. 3D model exported from FARO SCENE can be texturized afterward in Agisoft Metashape, by using the panoramic images and locations of the scanner, which are also exported from FARO SCENE.
 
 # Instruction
 - Create 3D model in FARO SCENE
